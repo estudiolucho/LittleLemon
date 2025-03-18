@@ -6,6 +6,6 @@ cd LittleLemon
 echo comandos.txt
 git add comandos.txt
 git commit  -m "comandos.txt added"	
-
+git push  orign main
 
 dd
