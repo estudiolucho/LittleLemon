@@ -1,10 +1,11 @@
 mkdir backend_dev_final
 cd backend_dev_final
 git config --global user.email miemail@email.com
-git clone  https://github.com/estudiolucho/LittleLemon.git
+git clone git@github.com:estudiolucho/LittleLemon.git --config core.sshCommand="ssh -i /home/luis/.ssh/githubsshkey"
 cd LittleLemon
 echo comandos.txt
 git add comandos.txt
-git commit  -m "comandos.txt added"
+git commit  -m "comandos.txt added"	
 
 
+dd
