@@ -25,3 +25,6 @@ git push origin main
 git pull # recibe los cambios de github en local
 #### 
 git checkout
+git status
+git checkout -B 22032025
+git status 
