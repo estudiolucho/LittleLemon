@@ -111,3 +111,15 @@ It took 2.07 seconds to enumerate untracked files. 'status -uno'
 may speed it up, but you have to be careful not to forget to add
 new files yourself (see 'git help status').
 Your branch is up to date with 'origin/main'.
+<<<<<<< HEAD
+=======
+######
+git branch:
+* 22032025
+  main
+git branch -r:
+  origin/22032025
+  origin/HEAD -> origin/main
+  origin/main
+
+>>>>>>> b85617b (22032025-8)

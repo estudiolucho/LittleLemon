@@ -27,4 +27,10 @@ git pull # recibe los cambios de github en local
 git checkout
 git status
 git checkout -B 22032025
+<<<<<<< HEAD
 git status 
+=======
+git status 
+git commit -m "22032025-branch_1"
+git push -u origin 22032025
+>>>>>>> b85617b (22032025-8)
