@@ -80,3 +80,33 @@ git branch -r #branch remoto
   origin/main
 
 #########
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   comandos.txt
+	new file:   workspace/bin/Activate.ps1
+	new file:   workspace/bin/activate
+	new file:   workspace/bin/activate.csh
+	new file:   workspace/bin/activate.fish
+	new file:   workspace/bin/django-admin
+	new file:   workspace/bin/pip
+	new file:   workspace/bin/pip3
+	new file:   workspace/bin/pip3.10
+	new file:   workspace/bin/python
+	new file:   workspace/bin/python3
+	new file:   workspace/bin/python3.10
+	new file:   workspace/bin/sqlformat
+...
+...
+	new file:   workspace/pyvenv.cfg
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	littelemon/
+
+
+It took 2.07 seconds to enumerate untracked files. 'status -uno'
+may speed it up, but you have to be careful not to forget to add
+new files yourself (see 'git help status').

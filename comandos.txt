@@ -22,4 +22,5 @@ git add comandos.txt
 git commit -m "22032025-1"
 git status
 git push origin main
+git pull # recibe los cambios de github en local
 
