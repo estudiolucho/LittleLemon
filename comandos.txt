@@ -40,3 +40,11 @@ git status
 git commit -m "22032025-branch_1"
 git push -u origin 22032025
 >>>>>>> b85617b (22032025-8)
+####
+#### 
+git checkout
+git status
+git checkout -B 22032025
+git status 
+git commit -m "22032025-branch_1"
+git push -u origin 22032025

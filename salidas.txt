@@ -129,3 +129,12 @@ git branch -r:
 >>>>>>> b85617b (22032025-8)
 =======
 >>>>>>> b85617b (22032025-8)
+######
+git branch:
+* 22032025
+  main
+git branch -r:
+  origin/22032025
+  origin/HEAD -> origin/main
+  origin/main
+
