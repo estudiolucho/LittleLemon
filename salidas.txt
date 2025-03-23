@@ -36,3 +36,29 @@ Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 To github.com:estudiolucho/LittleLemon.git
    8b5c6f3..b84b752  main -> main
 #####
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   salidas.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	salidas
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   salidas.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
