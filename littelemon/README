@@ -1,0 +1,6 @@
+http://127.0.0.1:8000/admin/login/
+GET http://localhost:8000/restaurant/booking/tables 
+POST http://localhost:8000/restaurant/booking/tables  f_name": "pedro","f_no_of_guest": 4,"f_bookingdate"
+POST http://127.0.0.1:8000/auth/token/login/  
+
+
